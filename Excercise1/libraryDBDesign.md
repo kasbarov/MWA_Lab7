@@ -2,9 +2,11 @@
 {
 firstName: ' ',
 lastName: ' ',
-
-books: [ {isbn: ' ', title:' ', tags: [' ', ' ',' ']} , {isbn: ' ', title:' ', tags: [' ', ' ',' ']} , {isbn: ' ', title:' ', tags: [' ', ' ',' ']} ]
-
+books: [
+{isbn: ' ', title:' ', tags: [' ', ' ',' ']} ,
+{isbn: ' ', title:' ', tags: [' ', ' ',' ']} ,
+{isbn: ' ', title:' ', tags: [' ', ' ',' ']} 
+],
 }
 
 // borrowed books collection
@@ -21,5 +23,4 @@ returnDate: ' ',
 studentId: ' ',
 studentName: ' ',
 birthdate: ' ',
-
 }
